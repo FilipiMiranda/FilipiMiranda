@@ -27,6 +27,7 @@
  
 ### Basic Knowledge:
 ![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=C%2B%2B&&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
 
   
 
